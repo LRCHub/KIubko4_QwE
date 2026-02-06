@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよなら幽霊無人街（feat. 玄米ねこまんま）",
+  "base_artist": "電ǂ鯨",
+  "createdAt": "2026-02-06T11:01:31.200986Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら幽霊無人街 (feat. 玄米ねこまんま)",
+      "artist": "電ǂ鯨",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら幽霊無人街_(feat._玄米ねこまんま)_電ǂ鯨.txt"
+    }
+  ]
+}
